@@ -10,7 +10,7 @@ namespace DrugaIgra
             Console.WriteLine("Marin ima w pobjeda i z poraza!");
 
             Console.WriteLine(" x |   |   ");
-            Console.WriteLine("   |   |   ");
+            Console.WriteLine("   | o |   ");
             Console.WriteLine("   |   |   ");
     }
 }
