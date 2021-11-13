@@ -9,7 +9,7 @@ namespace DrugaIgra
             Console.WriteLine("Bože ima x pobjeda i y poraza!");
             Console.WriteLine("Marin ima w pobjeda i z poraza!");
 
-            Console.WriteLine("   |   |   ");
+            Console.WriteLine(" x |   |   ");
             Console.WriteLine("   |   |   ");
             Console.WriteLine("   |   |   ");
     }
